@@ -1,4 +1,4 @@
-# Local-Library-Project
+# Local-Library
 
 This local library project is a collection of JavaScript functions to be used on the website of an imaginary local library. They enable visitors to browse through the inventory of the library by user account, author, or book ID. 
 
